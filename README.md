@@ -8,17 +8,17 @@
 
 ## Featured Project
 
- ###  [Iowa Housing Sales Dashboard](https://github.com/Dgrey628/Iowa-Housing-Sales-Dashboard)  
+ ###  
  An interactive Power BI dashboard analyzing 130+ years of Iowa housing data with ML-powered pricing predictions using XGBoost.  
  Includes pricing trends, property insights, ROI analysis, and predictive modeling.  
- [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmEwM2VkOTQtODY3My00NmQxLTgzMGEtMTVjNTM5YmY0ZjlkIiwidCI6ImYxYWQ2ODFmLTZmNjItNDNhOS04MjQxLTA3MDMxNjBlMTM0OCIsImMiOjN9)
+ [View Live Dashboard]
 
 ---
 
 ##  Let's Connect
 
- **Email:** djgray433@gmail.com  
- **LinkedIn:** [donald-gray-9576119b](https://www.linkedin.com/in/donald-gray-9576119b/)  
+ **Email:** sundaydadag@gmail.com  
+ **LinkedIn:** [Sunday Dada](https://www.linkedin.com/in/sundaydada)  
  
 
 ---
