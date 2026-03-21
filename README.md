@@ -11,7 +11,7 @@
  ###  
  An interactive Power BI dashboard analyzing 130+ years of Iowa housing data with ML-powered pricing predictions using XGBoost.  
  Includes pricing trends, property insights, ROI analysis, and predictive modeling.  
- [View Live Dashboard]
+ [View Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiOTAyZTAxMzYtYjRmNy00MmRiLTljYjMtN2NkOWZjOWM3MTIyIiwidCI6IjRkMTYxZjExLTQ2MzAtNDE1Zi1iMWI0LTg5YWM3MmNlYzk5NyJ9)
 
 ---
 
