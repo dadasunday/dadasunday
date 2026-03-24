@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- **Senior Business Intelligence Developer**  
+ **I'm Sunday Dada a Senior Business Intelligence Developer**  
    Power BI • Azure • Microsoft Fabric • SQL • Data Modeling • Machine Learning  
    I use data to uncover trends, optimize decision-making, and deliver powerful visuals.
 
