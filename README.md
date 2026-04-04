@@ -9,7 +9,7 @@
 ## Featured Project
 
  ###  
- # Hospital Length of Stay — Performance Dashboard
+ #### Hospital Length of Stay — Performance Dashboard
 Interactive Power BI dashboard tracking hospital LOS performance. Features quarter-over-quarter trend analysis, medical condition breakdowns by gender, LOS distribution by treatment cost, and a QoQ % breakdown by sub-KPIs. Built to support bed management teams, nursing leadership, and operations directors in identifying optimization opportunities across patient flow and capacity planning..  
  [View Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMGJjNGZmOTEtMGY4MS00MzA2LWI5MmQtMDMzODkzOTkzNTI2IiwidCI6IjRkMTYxZjExLTQ2MzAtNDE1Zi1iMWI0LTg5YWM3MmNlYzk5NyJ9)
 
