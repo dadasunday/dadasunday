@@ -1,7 +1,7 @@
 ## Hi there 👋
 
  **I'm Sunday Dada a Senior Business Intelligence Developer**  
-   Power BI • Azure • Microsoft Fabric • SQL • Data Modeling • Machine Learning  
+   Power BI • Microsoft Fabric• Power Platform • AI Automation • ETL • SQL • Data Modeling   
    I use data to uncover trends, optimize decision-making, and deliver powerful visuals.
 
 ---
@@ -9,8 +9,8 @@
 ## Featured Project
 
  ###  
- An interactive Power BI dashboard analyzing 130+ years of Iowa housing data with ML-powered pricing predictions using XGBoost.  
- Includes pricing trends, property insights, ROI analysis, and predictive modeling.  
+ # Hospital Length of Stay — Performance Dashboard
+Interactive Power BI dashboard tracking hospital LOS performance. Features quarter-over-quarter trend analysis, medical condition breakdowns by gender, LOS distribution by treatment cost, and a QoQ % breakdown by sub-KPIs. Built to support bed management teams, nursing leadership, and operations directors in identifying optimization opportunities across patient flow and capacity planning..  
  [View Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMGJjNGZmOTEtMGY4MS00MzA2LWI5MmQtMDMzODkzOTkzNTI2IiwidCI6IjRkMTYxZjExLTQ2MzAtNDE1Zi1iMWI0LTg5YWM3MmNlYzk5NyJ9)
 
 ---
