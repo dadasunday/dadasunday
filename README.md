@@ -23,20 +23,6 @@ Interactive Power BI dashboard tracking hospital LOS performance. Features quart
 
 ---
 
-##  Certifications
-
-<p align="left">
-  <a href="https://www.credly.com/badges/1555dfb9-882a-4b3f-a80e-bfeedbb288b2/linked_in?t=srnrr0">
-    <img src="PowerBICert.png" alt="Power BI Certification" width="130"/>
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/badges/792e9fac-c451-4846-968f-f22910ef4023/linked_in?t=srnrlr">
-    <img src="DataAnalyticsCert.png" alt="Data Analytics Certification" width="130"/>
-  </a>
-</p>
-
----
-
 ## 🛠 Tools & Skills
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
